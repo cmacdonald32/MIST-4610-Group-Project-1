@@ -1,5 +1,7 @@
 # MIST-4610-Group-Project-1
 
+# Team Name:
+
 # Team Members:
 1. Conner MacDonald [@cmacdonald32](https://github.com/cmacdonald32)
 2. Drew Kotanian [@drewkotanian](https://github.com/drewkotanian)
