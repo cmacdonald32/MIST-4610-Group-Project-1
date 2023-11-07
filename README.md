@@ -15,18 +15,19 @@ Our task is to model and build a relational database for the general operations 
 The model we have created aligns with the structure of a theoretical golf resort company. 
 
 # Data Dictionary: 
-![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/c7ea8dad-ec9e-4396-aae7-e19cc4b70c5e)
-![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/3e9f85e1-6d35-4b52-9e19-f950def5694f)
-![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/8e36d734-235b-4bb5-b6ea-1bfe56b3345b)
-![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/26eeec00-3bee-432a-9b98-bf0d2c6f6e27)
-![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/4e081de4-ae9f-4826-a04a-fd0c2e8fad12)
-![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/39e6f3e8-fb88-4d19-a9c0-4b4fcd7aeaec)
-![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/f0d046aa-f435-4965-bc71-7b9f78d290fb)
-![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/ee6a449a-729d-45ca-b610-cd444672e587)
-![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/ae45b0d9-4a46-490e-8234-0a1997e04c8e)
-
-
-
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/2e253ef1-58a0-4c68-b735-bc8083c2d6ea)
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/2075fd81-3099-4b7d-ba0a-c140d759e417)
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/0bc39f59-e491-4428-ad95-4c4087447f24)
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/965264a5-5685-404f-ab01-64ac5d9a908e)
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/9529a9f5-7ba7-485d-bc39-aaf9046afbde)
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/e93d1ac6-0681-4372-b753-c81a298ade91)
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/b3d2ce22-483a-44d1-acff-26281812fe62)
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/e2d376e7-cdd0-4d84-b722-d4ea5dd7581d)
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/97a01cbb-b37f-44d8-81a3-597fa6de0d33)
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/3226bc62-bc43-41fc-bf8d-b23bd89f4d5c)
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/df38f8e8-f7c5-44ee-b222-ff6915fccb4b)
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/357995d5-31a5-4252-8c57-091d3ffa64e0)
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/95357a88-fbd0-4b11-b582-1ba6c0acdbb7)
 
 # Queries:
 
