@@ -74,3 +74,4 @@ Query 10 retrieves tournament information from the 'Tournament' table. It filter
 
 
 # Database Information:
+Name of the database: cs_g3p1
