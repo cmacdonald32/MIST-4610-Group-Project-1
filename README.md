@@ -43,5 +43,24 @@ In terms of amenities, every golf course includes a restaurant, and we've repres
 ![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/95357a88-fbd0-4b11-b582-1ba6c0acdbb7)
 
 # Queries:
+![Image 11-7-23 at 5 33 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/4f3409dc-8e6b-458f-b977-03cf19b543ca)
+
+![Image 11-7-23 at 5 09 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/d82734fa-843d-4fac-973e-730913a02203)
+![Image 11-7-23 at 5 17 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/eaf89a33-8388-4497-adfc-b307059b3f87)
+![Image 11-7-23 at 5 17 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/e1f69f72-328a-4562-88e7-6f97fd840da5)
+![Image 11-7-23 at 5 18 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/c7f816ba-cdc6-4a79-a9f8-3552a99aa65a)
+![Image 11-7-23 at 5 18 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/39b69534-d8a9-4802-bda2-609faa00b3e8)
+![Image 11-7-23 at 5 20 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/891c09c6-34ea-4bbf-ba74-ab5a8de03e3a)
+![Image 11-7-23 at 5 21 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/08e7b077-c306-4fd5-8e4e-1a901923d3d5)
+![Image 11-7-23 at 5 22 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/0773ced4-2379-4266-ba89-d01834f4e710)
+![Image 11-7-23 at 5 22 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/17c91a72-7d8c-4840-a2b4-7b2eb944c282)
+![Image 11-7-23 at 5 23 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/b4208107-34a8-4b05-871c-a6d09b05c79b)
+
+
+
+
+
+
+
 
 # Database Information:
