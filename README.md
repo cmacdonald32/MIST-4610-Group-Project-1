@@ -13,6 +13,7 @@ Our task is to model and build a relational database for the general operations 
 
 # Data Model:
 The model we have created aligns with the structure of a theoretical golf resort company. 
+![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/52ac3594-baad-4bd7-a52d-7833570aaf8c)
 
 # Data Dictionary: 
 ![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/2e253ef1-58a0-4c68-b735-bc8083c2d6ea)
