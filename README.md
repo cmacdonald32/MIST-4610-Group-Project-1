@@ -1,6 +1,7 @@
 # MIST-4610-Group-Project-1
 
 # Team Name:
+Team Query Wizards
 
 # Team Members:
 1. Conner MacDonald [@cmacdonald32](https://github.com/cmacdonald32)
