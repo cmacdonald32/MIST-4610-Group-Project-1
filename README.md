@@ -30,7 +30,7 @@ In terms of amenities, every golf course includes a restaurant, and we've repres
 
 # Data Dictionary: 
 ![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/2e253ef1-58a0-4c68-b735-bc8083c2d6ea)
-![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/2075fd81-3099-4b7d-ba0a-c140d759e417)
+![Image 11-7-23 at 10 07 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/b4041972-2e44-4cd2-bef9-068daae67da8)
 ![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/0bc39f59-e491-4428-ad95-4c4087447f24)
 ![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/965264a5-5685-404f-ab01-64ac5d9a908e)
 ![image](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148248175/9529a9f5-7ba7-485d-bc39-aaf9046afbde)
