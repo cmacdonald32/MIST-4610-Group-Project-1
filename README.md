@@ -84,7 +84,7 @@ Query 9 allows managers to access data regarding the location and availability o
 
 10. Query 10 retrieves tournament information from the 'Tournament' table. It filters and retrieves records with the 'tournamentName' and 'tounamentDate' columns for tournaments that occurred after the latest 'The Spring Open' tournament. It uses a subquery to find the maximum date of 'The Spring Open' tournaments and compares it to the 'tounamentDate' in the main query. The query effectively returns tournament details for events that happened after the last 'The Spring Open' tournament, allowing you to track subsequent tournaments beyond that reference point.
 ![Image 11-7-23 at 5 23 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/b4208107-34a8-4b05-871c-a6d09b05c79b)
-Query 10 allows managers to sort through all the tournaments the club hosts based on certain criteria. In this example the manager queries for tournament names and tournament dates that occurred after the last ‘Spring Open’. A manager could use this query if there was a rule change in how we run our tournaments, starting after the most recent Spring Open. This would allow a manager to see tournaments that followed the updated set of rules. 
+Query 10 allows managers to sort through all the tournaments the club hosts based on certain criteria. In this example the manager queries for tournament names and tournament dates that occurred after the last ‘Spring Open’. A manager could use this query if there was a rule change in how we run our tournaments, starting after the most recent Spring Open. This would allow a manager to see tournaments that followed the updated set of rules.
 
 
 
