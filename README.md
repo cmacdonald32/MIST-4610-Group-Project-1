@@ -76,12 +76,15 @@ Query 7 allows managers to see the inventory quantity of specific products withi
 
 8. Query 8 retrieves all records from the 'TeeTime' table where the 'date' is set to '2023-01-01' and the 'time' follows the format of a 12-hour clock in the morning ('AM') with hours ranging from 00 to 11 and minutes from 00 to 59. It filters and retrieves tee times scheduled for the morning of January 1, 2023.
 ![Image 11-7-23 at 5 22 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/0773ced4-2379-4266-ba89-d01834f4e710)
-
+Query 8 allows managers to access records of tee times on specific dates and at certain times. In this case the manager pulled the tee times list of all tee times scheduled for the morning (AM) of January 1st 2023, across all courses. This is important for a manager of a club, because they can assess how busy the courses will be on a specific date, and see if there are open tee time slots for members who might want to get out on the golf course at the last minute.
 
 9. Query 9 retrieves and groups data from the 'GolfCourse' table based on 'location' and 'availability.' It does this by joining the 'Guest' and 'Restaurant' tables with the 'GolfCourse' table. The result is a summary of golf course locations and their availability, allowing users to see how many courses are available in different locations. This query provides an overview of golf course data, making it easier to analyze and compare golf course options based on location and availability.
 ![Image 11-7-23 at 5 22 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/17c91a72-7d8c-4840-a2b4-7b2eb944c282)
+Query 9 allows managers to access data regarding the location and availability of their golf courses. Managers can utilize this query to help direct members and guests to clubs that have an open availability status. This can ensure that a manager is not recommending a club, to a member, that is not available at a specific date and time.
+
 10. Query 10 retrieves tournament information from the 'Tournament' table. It filters and retrieves records with the 'tournamentName' and 'tounamentDate' columns for tournaments that occurred after the latest 'The Spring Open' tournament. It uses a subquery to find the maximum date of 'The Spring Open' tournaments and compares it to the 'tounamentDate' in the main query. The query effectively returns tournament details for events that happened after the last 'The Spring Open' tournament, allowing you to track subsequent tournaments beyond that reference point.
 ![Image 11-7-23 at 5 23 PM](https://github.com/cmacdonald32/MIST-4610-Group-Project-1/assets/148258205/b4208107-34a8-4b05-871c-a6d09b05c79b)
+Query 10 allows managers to sort through all the tournaments the club hosts based on certain criteria. In this example the manager queries for tournament names and tournament dates that occurred after the last ‘Spring Open’. A manager could use this query if there was a rule change in how we run our tournaments, starting after the most recent Spring Open. This would allow a manager to see tournaments that followed the updated set of rules. 
 
 
 
