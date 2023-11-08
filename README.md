@@ -95,4 +95,5 @@ Query 10 allows managers to sort through all the tournaments the club hosts base
 
 # Database Information:
 Name of the database: cs_g3p1
+
 Queries bookmarked under: cs_g3p1 by cs_aek74223
